@@ -1,2 +1,2 @@
-# ALQADHI_HK_DDoS
+# Joker: ddos atacks 
 DoS tool Copyright By ALQADHI_HK YEMEN
